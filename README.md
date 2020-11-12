@@ -11,6 +11,6 @@ Debe enviarle al profesor por correo electrónico la dirección para visualizar 
 
 2. Publique el notebook en [nbviewer](https://nbviewer.jupyter.org/) y envíele al profesor la dirección con la visualización del resultado.
 
-Se recomienda desarrollar el proyecto en un ambiente Conda, de manera similar a como se ha hecho en las lecciones. Los datos de COVID-19 en formato CSV y el archivo GeoJSON de cantones de Costa Rica están disponibles en [este enlace](https://github.com/tpb708-programacionsig-2020/leccion-10-folium/tree/main/datos).
+Se recomienda desarrollar el proyecto en un ambiente Conda, de manera similar a como se ha hecho en las lecciones. Los datos de COVID-19 en formato CSV y el archivo GeoJSON de cantones de Costa Rica están disponibles en el [repositorio de datos del curso](https://github.com/tpb708-programacionsig-2020/datos/tree/main/covid19/ministerio-salud).
 
-Escoja con cuidado los colores y estilos que use en las capas, de manera que sean visualmente atractivas y también funcionales.
+Escoja con cuidado los colores y estilos que use en las tablas, gráficos y mapas, de manera que sean visualmente atractivos y también funcionales.
