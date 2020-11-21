@@ -2,7 +2,7 @@
 ## Proyecto 02 - Visualización de tablas, gráficos y mapas
 
 ### Fecha de entrega y entregables
-La fecha límite para la entrega es el **viernes 20 de octubre de 2020**.
+La fecha límite para la entrega es el **sábado 21 de octubre de 2020**.
 
 Debe enviarle al profesor por correo electrónico la dirección para visualizar en [nbviewer](https://nbviewer.jupyter.org/) el notebook resultante. Puede trabajar en grupos de un máximo de tres estudiantes. Solo debe enviarse un mensaje por grupo, con los nombres de los integrantes.
 
